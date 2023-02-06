@@ -1,0 +1,19 @@
+* {
+    font-family: Montserrat;
+  }
+
+body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;  
+}
+
+.combo-boksevi{
+    background-color: #00754333;
+    border: 1px solid #68b4ff;
+    display:flex; 
+    flex-direction: column;
+    
+
+}
+
